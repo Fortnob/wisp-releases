@@ -1,8 +1,8 @@
 {
-  "build": 2,
+  "build": 3,
   "minApp": "0.2.2",
-  "sha256": "b4b67c7b5aa54563e327995c2fce1138ac0fc4acd6d2bee6ca78343850a03864",
-  "size": 201013,
-  "signature": "MEUCIQDxcn/oiBGiFJBANnkQ7Y4jVA+IFs1bbJObn6exusQU3QIgOC9bDi6syfcYUj9MX7eRjavzBmJ9gLoGaHumomgUpMU=",
-  "publishedAt": "2026-10-08T22:09:12.891Z"
+  "sha256": "f054197e1fefd91dd3407206b43e42da6a33a7af7473e9c80f7f85ebbcd2985c",
+  "size": 208867,
+  "signature": "MEUCICooKJ4FCmrRA8b88vBVG8Sqio/CHCBZDdWl7yyRfbdfAiEAyYbRDnn2kL0zz/JE7KsvXKvZW50qMbxuNS+vEoWCWVo=",
+  "publishedAt": "2026-10-09T23:29:07.131Z"
 }
